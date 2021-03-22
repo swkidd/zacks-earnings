@@ -1,5 +1,7 @@
 # zacks-earnings
 
+Get stock earning dates and release data from zacks.com
+
 ## Install  
 `pip install zacks-earnings`  
 
