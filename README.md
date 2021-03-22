@@ -1,9 +1,9 @@
 # zacks-earnings
 
-##Install
+## Install  
 `pip install zacks-earnings`  
 
-##Usage
+## Usage  
 Get earnings releases from zacks.com/earnings/earnings-reports by date  
 ```python
 >>> ZacksEarnings.earnings_by_date(parser.parse('Aug 12, 2017'))
