@@ -2,9 +2,6 @@
 
 Get stock earning dates and release data from zacks.com
 
-## Install  
-`pip install zacks-earnings`  
-
 ## Usage  
 Get earnings releases from zacks.com/earnings/earnings-reports by date  
 ```python
